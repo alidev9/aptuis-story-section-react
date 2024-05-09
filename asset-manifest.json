@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.19bbe886.css",
-    "main.js": "/static/js/main.1832ab69.js",
-    "static/media/image-3.png": "/static/media/image-3.e9c91ba9a5f9dd778f1d.png",
-    "static/media/image-5.png": "/static/media/image-5.93e7ce04da4398fb70e8.png",
-    "static/media/image-2.png": "/static/media/image-2.fdc3afef6e820846ab5b.png",
-    "static/media/image-4.png": "/static/media/image-4.b2ff3301865e26355390.png",
-    "static/media/image-1.png": "/static/media/image-1.84afc22d27bc870ce3d6.png",
-    "static/media/vector-mobile.svg": "/static/media/vector-mobile.5f49704e4f6f2a1fed589fc84bbab29c.svg",
-    "static/media/vector-tablet.svg": "/static/media/vector-tablet.713103ddb9038400e51f98e45e05e272.svg",
-    "static/media/vector.svg": "/static/media/vector.3042486b4ed5d4dd5c8e2ccb2c6491dd.svg",
-    "index.html": "/index.html",
-    "static/media/yellow-arrow.svg": "/static/media/yellow-arrow.3150e021a5f26b3863a2351621bb216d.svg",
-    "main.19bbe886.css.map": "/static/css/main.19bbe886.css.map",
-    "main.1832ab69.js.map": "/static/js/main.1832ab69.js.map"
+    "main.css": "/aptuis-story-section-react/static/css/main.beae1b54.css",
+    "main.js": "/aptuis-story-section-react/static/js/main.56af773b.js",
+    "static/media/image-3.png": "/aptuis-story-section-react/static/media/image-3.e9c91ba9a5f9dd778f1d.png",
+    "static/media/image-5.png": "/aptuis-story-section-react/static/media/image-5.93e7ce04da4398fb70e8.png",
+    "static/media/image-2.png": "/aptuis-story-section-react/static/media/image-2.fdc3afef6e820846ab5b.png",
+    "static/media/image-4.png": "/aptuis-story-section-react/static/media/image-4.b2ff3301865e26355390.png",
+    "static/media/image-1.png": "/aptuis-story-section-react/static/media/image-1.84afc22d27bc870ce3d6.png",
+    "static/media/vector-mobile.svg": "/aptuis-story-section-react/static/media/vector-mobile.5f49704e4f6f2a1fed589fc84bbab29c.svg",
+    "static/media/vector-tablet.svg": "/aptuis-story-section-react/static/media/vector-tablet.713103ddb9038400e51f98e45e05e272.svg",
+    "static/media/vector.svg": "/aptuis-story-section-react/static/media/vector.3042486b4ed5d4dd5c8e2ccb2c6491dd.svg",
+    "index.html": "/aptuis-story-section-react/index.html",
+    "static/media/yellow-arrow.svg": "/aptuis-story-section-react/static/media/yellow-arrow.3150e021a5f26b3863a2351621bb216d.svg",
+    "main.beae1b54.css.map": "/aptuis-story-section-react/static/css/main.beae1b54.css.map",
+    "main.56af773b.js.map": "/aptuis-story-section-react/static/js/main.56af773b.js.map"
   },
   "entrypoints": [
-    "static/css/main.19bbe886.css",
-    "static/js/main.1832ab69.js"
+    "static/css/main.beae1b54.css",
+    "static/js/main.56af773b.js"
   ]
 }
