@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/aptuis-story-section-react/static/css/main.beae1b54.css",
-    "main.js": "/aptuis-story-section-react/static/js/main.56af773b.js",
+    "main.js": "/aptuis-story-section-react/static/js/main.779b9486.js",
     "static/media/image-3.png": "/aptuis-story-section-react/static/media/image-3.e9c91ba9a5f9dd778f1d.png",
     "static/media/image-5.png": "/aptuis-story-section-react/static/media/image-5.93e7ce04da4398fb70e8.png",
     "static/media/image-2.png": "/aptuis-story-section-react/static/media/image-2.fdc3afef6e820846ab5b.png",
@@ -13,10 +13,10 @@
     "index.html": "/aptuis-story-section-react/index.html",
     "static/media/yellow-arrow.svg": "/aptuis-story-section-react/static/media/yellow-arrow.3150e021a5f26b3863a2351621bb216d.svg",
     "main.beae1b54.css.map": "/aptuis-story-section-react/static/css/main.beae1b54.css.map",
-    "main.56af773b.js.map": "/aptuis-story-section-react/static/js/main.56af773b.js.map"
+    "main.779b9486.js.map": "/aptuis-story-section-react/static/js/main.779b9486.js.map"
   },
   "entrypoints": [
     "static/css/main.beae1b54.css",
-    "static/js/main.56af773b.js"
+    "static/js/main.779b9486.js"
   ]
 }
