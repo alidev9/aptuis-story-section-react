@@ -45,7 +45,8 @@ function AptuisStorySection(){
                 <h2>Our Story</h2>
                 <div className="milestone-items-container">
                     {milestoneItems.map(milestoneItem => (
-                        <MilestoneComponent storyHeader = {milestoneItem.storyHeader} 
+                        <MilestoneComponent key = {milestoneItem.id} 
+                        storyHeader = {milestoneItem.storyHeader} 
                         storyParagraph = {milestoneItem.storyParagraph}
                         year = {milestoneItem.year}
                         storyImage = {milestoneItem.storyImage}/>
