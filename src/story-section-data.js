@@ -10,7 +10,7 @@ const milestoneItems = [
     {
         id: uuidv4(),
         storyHeader: 'Lorem Ipsum',
-        storyParagraph: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus aliquam vel diam eu ornare. Integer et felis elit. Pellentesque semper, dui sit amet interdum aliquam, lectus elit gravida tortor, at pulvinar sapien. ',
+        storyParagraph: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus aliquam vel diam eu ornare. Integer et felis elit. Pellentesque semper, dui sit amet interdum aliquam, lectus elit gravida tortor, at pulvinar sapien.',
         year: 2017,
         storyImage: firstImage,
     },
@@ -24,7 +24,7 @@ const milestoneItems = [
     {
         id: uuidv4(),
         storyHeader: 'Lorem Ipsum',
-        storyParagraph: 'In June of 2018 Aptius Ltd is formed. Although a small start, the beta version has grown to become version 1.0. The shared experience and research knowledge of our founders merged creating a full-time venture.',
+        storyParagraph: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus aliquam vel diam eu ornare. Integer et felis elit. Pellentesque semper, dui sit amet interdum aliquam, lectus elit gravida tortor, at pulvinar sapien.',
         year: 2020,
         storyImage: thirdImage,
     },
