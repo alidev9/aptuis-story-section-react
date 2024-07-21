@@ -49,6 +49,10 @@
     :nth-child(3 of .milestone-item){
         padding-top: calc(100vw * 12/393);
     }
+    :nth-child(4 of .milestone-item),
+    :nth-child(5 of .milestone-item){
+        padding-top: calc(100vw * 12/393);
+    }
     .milestone-story-container > h3{
         order: 2;
         font-size: calc(100vw * 22/393);
